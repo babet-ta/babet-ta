@@ -23,8 +23,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=babet-ta&theme=buefy&show_icons=true&hide=issues" />
 </a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babet-ta&exclude_repo=Digital-Project&layout=donut" />
+</a> 
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://streak-stats.demolab.com?user=babet-ta&theme=tokyonight-duo&hide_border=true&hide_longest_streak=true" />
+  <img align="center" src="https://streak-stats.demolab.com?user=babet-ta&theme=tokyonight-duo&hide_border=true" />
 </a>
 
 ---
@@ -32,10 +35,6 @@ Here are some ideas to get you started:
 ### 🧰 Toolbox
 > Tools and languages I worked with
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babet-ta&exclude_repo=Digital-Project&layout=compact" />
-</a>   
-<br><br>
 <table>
 <tbody>
   <tr>
