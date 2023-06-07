@@ -1,9 +1,7 @@
 ### Hi there 👋 I'm Lisa
 ## I'm a passionate Frontend developer 
-🌱 I’m currently learning React <br>
+🌱 I’m currently learning React <img src="https://github.com/babet-ta/babet-ta/blob/main/leaf-budding-pop.gif" width="30" /> <br>
 📫 How to reach me: elizaveta.vopilova@icloud.com or message me in [Telegram](https://t.me/babet_ta)
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babet-ta&theme=buefy&show_icons=true) <br> -->
 
 <!--
 **babet-ta/babet-ta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -92,3 +90,5 @@ Here are some ideas to get you started:
   </tr>
 </tbody>
 </table>
+
+### Thank you for visiting my profile! <img src="https://github.com/babet-ta/babet-ta/blob/main/kitty.gif" width="50" />
