@@ -75,13 +75,13 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="90px">HTML5</td>
     <td align="center" width="90px">CSS3</td>
-    <td align="center" width="90px">JS</td>
+    <td align="center" width="90px">JavaScript</td>
     <td align="center" width="90px">React</td>
     <td align="center" width="90px">Redux</td>
     <td align="center" width="90px">SASS</td>
     <td align="center" width="90px">Bootstrap</td>
     <td align="center" width="90px">Node.js</td>
-    <td align="center" width="90px">Git</td>
+    <td align="center" width="90px">Git </td>
     <td align="center" width="90px">npm</td>
     <td align="center" width="90px">Webpack</td>
     <td align="center" width="90px">Figma</td>
