@@ -35,56 +35,56 @@ Here are some ideas to get you started:
 <table>
 <tbody>
   <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50" />
+    <td align="center" width="90px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50px" />
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50" />
+    <td align="center" width="90px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50px" />
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" />
+    <td align="center" width="90px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50px" />
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+    <td align="center" width="90px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" />
+    <td align="center" width="90px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50px" />
     </td>
-    <td align="center">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" />
+    <td align="center" width="90px">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" />
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="50" />
+    <td align="center" width="90px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="50px" />
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="50" />
+    <td align="center" width="90px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="50px" />
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" />
+    <td align="center" width="90px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50px" />
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" />
+    <td align="center" width="90px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50px" />
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" width="50" />
+    <td align="center" width="90px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" width="50px" />
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" />
+    <td align="center" width="90px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" />
     </td>
   </tr>
   <tr>
-    <td align="center">HTML5</td>
-    <td align="center">CSS3</td>
-    <td align="center">JS</td>
-    <td align="center">React</td>
-    <td align="center">Redux</td>
-    <td align="center">SASS</td>
-    <td align="center">Bootstrap</td>
-    <td align="center">Node.js</td>
-    <td align="center">Git</td>
-    <td align="center">npm</td>
-    <td align="center">Webpack</td>
-    <td align="center">Figma</td>
+    <td align="center" width="90px">HTML5</td>
+    <td align="center" width="90px">CSS3</td>
+    <td align="center" width="90px">JS</td>
+    <td align="center" width="90px">React</td>
+    <td align="center" width="90px">Redux</td>
+    <td align="center" width="90px">SASS</td>
+    <td align="center" width="90px">Bootstrap</td>
+    <td align="center" width="90px">Node.js</td>
+    <td align="center" width="90px">Git</td>
+    <td align="center" width="90px">npm</td>
+    <td align="center" width="90px">Webpack</td>
+    <td align="center" width="90px">Figma</td>
   </tr>
 </tbody>
 </table>
