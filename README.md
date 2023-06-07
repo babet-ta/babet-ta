@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Lisa
-## I'm a Junior Frontend developer 
+## I'm a passionate Frontend developer 
 🌱 I’m currently learning React <br>
 📫 How to reach me: elizaveta.vopilova@icloud.com or message me in [Telegram](https://t.me/babet_ta)
 
