@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=babet-ta&theme=buefy&show_icons=true&hide=issues" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://streak-stats.demolab.com?user=babet-ta&theme=tokyonight-duo&hide_border=true" />
+  <img align="center" src="https://streak-stats.demolab.com?user=babet-ta&theme=tokyonight-duo&hide_border=true&hide_longest_streak=true" />
 </a>
 
 ---
