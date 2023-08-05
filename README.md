@@ -51,6 +51,9 @@ Here are some ideas to get you started:
     <td align="center" width="90px">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" />
     </td>
+    <td align="center" width="90px">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="50px" />
+    </td>
   </tr>
   <tr>
     <td align="center" width="90px">HTML5</td>
@@ -59,6 +62,7 @@ Here are some ideas to get you started:
     <td align="center" width="90px">React</td>
     <td align="center" width="90px">Redux</td>
     <td align="center" width="90px">SASS</td>
+    <td align="center" width="90px">Docker</td>
   </tr>
   <tr>
     <td align="center" width="90px">
@@ -79,6 +83,9 @@ Here are some ideas to get you started:
     <td align="center" width="90px">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" />
     </td>
+    <td align="center" width="90px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="50px" />
+    </td>
   </tr>
   <tr>
     <td align="center" width="90px">Bootstrap</td>
@@ -87,6 +94,7 @@ Here are some ideas to get you started:
     <td align="center" width="90px">npm</td>
     <td align="center" width="90px">Webpack</td>
     <td align="center" width="90px">Figma</td>
+    <td align="center" width="90px">Svelte</td>
   </tr>
 </tbody>
 </table>
