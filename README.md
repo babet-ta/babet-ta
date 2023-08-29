@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Lisa
 ## I'm a passionate Frontend developer 
-🌱 I’m currently learning React <img src="https://github.com/babet-ta/babet-ta/blob/main/leaf-budding-pop.gif" width="30" /> <br>
+🌱 I’m currently learning Redux <img src="https://github.com/babet-ta/babet-ta/blob/main/leaf-budding-pop.gif" width="30" /> <br>
 📫 How to reach me: elizaveta.vopilova@icloud.com or message me in [Telegram](https://t.me/babet_ta)
 
 <!--
