@@ -97,16 +97,16 @@ Here are some ideas to get you started:
       <td align="center" width="90px">Svelte</td>
     </tr>
     <tr>
-      <td align="center" width="90px"
+      <td align="center" width="90px">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50px" />
       </td>
-      <td align="center" width="90px"
+      <td align="center" width="90px">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="50px" />
       </td>
-      <td align="center" width="90px"
+      <td align="center" width="90px">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50px" />
       </td>
-      <td align="center" width="90px"
+      <td align="center" width="90px">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="50px" />
       </td>
     </tr>
