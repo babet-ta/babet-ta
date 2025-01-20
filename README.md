@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babet-ta&exclude_repo=Digital-Project&layout=donut" />
 </a> 
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://streak-stats.demolab.com?user=babet-ta&theme=gruvbox-duo&hide_border=true&card_width=400" />
+  <img align="center" src="https://github-readme-streak-stats-seven-azure.vercel.app?user=babet-ta&theme=gruvbox-duo&hide_border=true&card_width=400" />
 </a>
 
 ---
