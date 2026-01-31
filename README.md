@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Lisa
-## I'm a passionate Frontend developer 
-🌱 I’m currently learning Nuxt.js <img src="https://github.com/babet-ta/babet-ta/blob/main/leaf-budding-pop.gif" width="30" /> <br>
+## I'm a passionate FullStack developer 
+🌱 I’m currently reading "Code Complete" by Steve McConnell <img src="https://github.com/babet-ta/babet-ta/blob/main/leaf-budding-pop.gif" width="30" /> <br>
 📫 How to reach me: elizaveta.vopilova@icloud.com or message me in [Telegram](https://t.me/babet_ta)
 
 <!--
@@ -102,19 +102,47 @@ Here are some ideas to get you started:
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="50px" />
       </td>
       <td align="center" width="90px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="50px" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="50px" />
       </td>
       <td align="center" width="90px">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="50px" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="50px" />
       </td>
     </tr>
     <tr>
       <td align="center" width="90px">PHP</td>
       <td align="center" width="90px">MariaDB</td>
-      <td align="center" width="90px">Vue 2</td>
+      <td align="center" width="90px">Vue 2/3</td>
       <td align="center" width="90px">Nuxt.js</td>
-      <td align="center" width="90px">Docker</td>
+      <td align="center" width="90px">Laravel</td>
       <td align="center" width="90px">Axios</td>
+    </tr>
+    <tr>
+      <td align="center" width="90px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px" />
+      </td>
+      <td align="center" width="90px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="50px" />
+      </td>
+      <td align="center" width="90px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50px" />
+      </td>
+      <td align="center" width="90px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain.svg" width="50px" />
+      </td>
+      <td align="center" width="90px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="50px" />
+      </td>
+      <td align="center" width="90px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="50px" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="90px">Python</td>
+      <td align="center" width="90px">Flask</td>
+      <td align="center" width="90px">MongoDB</td>
+      <td align="center" width="90px">Redis</td>
+      <td align="center" width="90px">RabbitMQ</td>
+      <td align="center" width="90px">Docker</td>
     </tr>
   </tbody>
 </table>
